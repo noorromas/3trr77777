@@ -330,7 +330,7 @@ button.rsave.btn.btn-primary.fl.liali1 {
 `);
 var liali = false;
 setInterval(function () {
-    if (myroom == '186065b5dcfx5fcd2c87x-3976dw') {
+    if (myroom == '19134f570cexa4c41e96xq2xtv0') {
         if (liali == false) {
             liali = true;
                 $('#d0, #users, #d2, #mic, #settings, #rooms, #room, #d0, #chats, #d2bc, #muteall, #wall, #dpnl, #upro').addClass('liali1');
@@ -344,6 +344,4 @@ setInterval(function () {
             } 
         } 
     }, 10);
-
-
 
