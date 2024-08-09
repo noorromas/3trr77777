@@ -26,7 +26,7 @@ $(`<style>
   margin-left: -60px !important;
 }
 
-.nosel.d-flex.room. .corner.fa.fa-user.label.label-primary.uc {
+.nosel.d-flex.room.r19134f570cexa4c41e96xq2xtv0 .corner.fa.fa-user.label.label-primary.uc {
   letter-spacing: 1px;
   -webkit-text-fill-color: #cac9c8;
   border-radius: 15px 0px 15px 0px !important;
