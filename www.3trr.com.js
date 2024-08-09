@@ -9,7 +9,7 @@ background-image: url(https://up6.cc/2023/02/167583066070342.png); background-si
 
 
 $(`<style>
-.nosel.d-flex.room. .fitimg.u-pic.borderg {
+.nosel.d-flex.room.r19134f570cexa4c41e96xq2xtv0 .fitimg.u-pic.borderg {
   letter-spacing: 1px;
   background-size: 108% 108%;
   -webkit-text-fill-color: white;
